@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Yassir+AMRAOUI;Data+Science+and+IOT+Engineering+Student;Passionate+about+DevOps+and+Software+Engineering+Enthousiast;Freelancer;Mobile+and+Web+Developper" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=25&center=true&vCenter=true&width=800&lines=Hello+there!+I'm+Yassir+AMRAOUI;Data+Science+and+IOT+Engineering+Student;Passionate+about+DevOps+and+Software+Engineering;Freelancer;Mobile+and+Web+Developper" alt="Typing SVG">
 </p>
 
 <h3 align="center">Data Science and IOT Engineering Student | DevOps & Software Engineering Enthousiast | Freelancer | Mobile & Web Developper</h3>
