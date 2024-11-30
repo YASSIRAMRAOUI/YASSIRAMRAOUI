@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yassir AMRAOUI</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2361DAFB&size=25&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Yassir+AMRAOUI;Data+Science+and+IOT+Engineering+Student;Passionate+about+DevOps+and+Software+Engineering+Enthousiast;Freelancer;Mobile+and+Web+Developper" alt="Typing SVG">
+</p>
 
 <h3 align="center">Data Science and IOT Engineering Student | DevOps & Software Engineering Enthousiast | Freelancer | Mobile & Web Developper</h3>
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="Coding GIF" />
-</p>
 
 - 🔭 I’m currently working on [Management Carpooling Services](https://github.com/YASSIRAMRAOUI/Management-Carpooling-Services)
 
